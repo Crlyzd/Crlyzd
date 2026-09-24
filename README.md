@@ -52,9 +52,11 @@ passions: [Clean Code, Minimalist Design, Nature & Mountains, Open Source]
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <p><a href="https://github.com/Crlyzd"><img src="https://github-readme-stats-fast.vercel.app/api?username=Crlyzd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" alt="Crlyzd's GitHub Stats" /></a></p>
-  <p><a href="https://github.com/Crlyzd"><img src="https://streak-stats.demolab.com/?user=Crlyzd&theme=tokyonight&hide_border=true" alt="Crlyzd's GitHub Streak" /></a></p>
-  <p><a href="https://github.com/Crlyzd"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Crlyzd&layout=compact&card_width=495&theme=tokyonight&hide_border=true" alt="Top Languages" /></a></p>
+  <a href="https://github.com/Crlyzd"><img src="https://github-readme-stats-fast.vercel.app/api?username=Crlyzd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Crlyzd's GitHub Stats" /></a>
+  <a href="https://github.com/Crlyzd"><img src="https://streak-stats.demolab.com/?user=Crlyzd&theme=tokyonight&hide_border=true" height="175" alt="Crlyzd's GitHub Streak" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/Crlyzd"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Crlyzd&layout=compact&card_width=444&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>
 </div>
 
 ---
