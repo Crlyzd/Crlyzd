@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">The Brutally Honest Bio</h3>
+<h3 align="center">Developer Information (Allegedly)</h3>
 
 ```yaml
 identity:
@@ -48,7 +48,7 @@ identity:
 
 ---
 
-<h3 align="center">The "Vibe-Coding" Pipeline</h3>
+<h3 align="center">Engineering Workflow</h3>
 
 ```
    ┌───────────────────────┐
