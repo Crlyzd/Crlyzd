@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:terminal-square.svg?color=%237aa2f7" width="20" height="20" align="middle" /> The Brutally Honest Bio</h3>
+<h3 align="center">The Brutally Honest Bio</h3>
 
 ```yaml
 identity:
@@ -48,7 +48,7 @@ identity:
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:git-merge.svg?color=%237aa2f7" width="20" height="20" align="middle" /> The "Vibe-Coding" Pipeline</h3>
+<h3 align="center">The "Vibe-Coding" Pipeline</h3>
 
 ```
    ┌───────────────────────┐
@@ -79,7 +79,7 @@ identity:
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:cpu.svg?color=%237aa2f7" width="20" height="20" align="middle" /> Tech Stack & Toolbox (Classified By Reality)</h3>
+<h3 align="center">Tech Stack & Toolbox (Classified By Reality)</h3>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ identity:
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%237aa2f7" width="20" height="20" align="middle" /> AI Labor & Hallucination Metrics</h3>
+<h3 align="center">AI Labor & Hallucination Metrics</h3>
 
 <div align="center">
   <p><em>The chart below doesn't reflect my technical mastery—it just shows which syntax the AI felt like spitting out that week.</em></p>
@@ -113,7 +113,7 @@ identity:
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:folder-heart.svg?color=%237aa2f7" width="20" height="20" align="middle" /> The Hallucinated Portfolio</h3>
+<h3 align="center">The Hallucinated Portfolio</h3>
 
 <div align="center">
   <a href="https://github.com/Crlyzd/flying-lyrics"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Crlyzd&repo=flying-lyrics&theme=tokyonight&hide_border=true" alt="flying-lyrics" /></a>
@@ -142,7 +142,7 @@ identity:
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:help-circle.svg?color=%237aa2f7" width="20" height="20" align="middle" /> How To Collaborate With Me (Protocol)</h3>
+<h3 align="center">How To Collaborate With Me (Protocol)</h3>
 
 <div align="center">
 
@@ -157,7 +157,7 @@ identity:
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:message-circle.svg?color=%237aa2f7" width="20" height="20" align="middle" /> Connect & Witness The Larp</h3>
+<h3 align="center">Connect & Witness The Larp</h3>
 
 <div align="center">
   <p><em>Feel free to reach out, send bugs, or chat about why AI is doing all our homework.</em></p>
