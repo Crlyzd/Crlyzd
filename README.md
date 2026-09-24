@@ -52,7 +52,7 @@ identity:
 
 ```
    ┌───────────────────────┐
-   │  2:00 AM Brainfart   │ "What if notepad was purple and floated?"
+   │  2:00 AM Brainfart    │ "What if notepad was purple and floated?"
    └──────────┬────────────┘
               │
               ▼
