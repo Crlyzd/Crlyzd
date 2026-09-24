@@ -69,16 +69,16 @@ passions: [Clean Code, Minimalist Design, Nature & Mountains, Open Source]
 
 <div align="center">
   <a href="https://github.com/Crlyzd">
-    <img src="https://github-readme-stats.vercel.app/api?username=Crlyzd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Crlyzd's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Crlyzd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Crlyzd's GitHub Stats" />
   </a>
   <a href="https://github.com/Crlyzd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crlyzd&theme=tokyonight&hide_border=true" alt="Crlyzd's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Crlyzd&theme=tokyonight&hide_border=true" alt="Crlyzd's GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Crlyzd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crlyzd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Crlyzd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -88,40 +88,40 @@ passions: [Clean Code, Minimalist Design, Nature & Mountains, Open Source]
 
 <div align="center">
   <a href="https://github.com/Crlyzd/flying-lyrics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=flying-lyrics&theme=tokyonight&hide_border=true" alt="flying-lyrics" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Crlyzd&repo=flying-lyrics&theme=tokyonight&hide_border=true" alt="flying-lyrics" />
   </a>
   <a href="https://github.com/Crlyzd/Cathet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Cathet&theme=tokyonight&hide_border=true" alt="Cathet" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Crlyzd&repo=Cathet&theme=tokyonight&hide_border=true" alt="Cathet" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Crlyzd/Alitken-GUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Alitken-GUI&theme=tokyonight&hide_border=true" alt="Alitken-GUI" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Crlyzd&repo=Alitken-GUI&theme=tokyonight&hide_border=true" alt="Alitken-GUI" />
   </a>
   <a href="https://github.com/Crlyzd/Alitken">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Alitken&theme=tokyonight&hide_border=true" alt="Alitken" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Crlyzd&repo=Alitken&theme=tokyonight&hide_border=true" alt="Alitken" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Crlyzd/Bukaake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Bukaake&theme=tokyonight&hide_border=true" alt="Bukaake" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Crlyzd&repo=Bukaake&theme=tokyonight&hide_border=true" alt="Bukaake" />
   </a>
   <a href="https://github.com/Crlyzd/Methik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Methik&theme=tokyonight&hide_border=true" alt="Methik" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Crlyzd&repo=Methik&theme=tokyonight&hide_border=true" alt="Methik" />
   </a>
 </div>
 
 <br />
 
-| Repository | Description | Primary Stack |
-| :--- | :--- | :--- |
-| 🎵 **[flying-lyrics](https://github.com/Crlyzd/flying-lyrics)** | Dynamic and interactive floating lyrics tool / overlay for a seamless music experience. | `JavaScript` `CSS` |
-| 📝 **[Cathet](https://github.com/Crlyzd/Cathet)** | Modern, lightweight, fast alternative to Windows Notepad with enhanced UX. | `TypeScript` |
-| 🖥️ **[Alitken-GUI](https://github.com/Crlyzd/Alitken-GUI)** | Modern desktop GUI frontend for the Alitken system tweak and optimization toolset. | `TypeScript` |
-| ⚡ **[Alitken](https://github.com/Crlyzd/Alitken)** | Windows system customization, setup routines, and automation scripts. | `PowerShell` |
-| 🌐 **[Bukaake](https://github.com/Crlyzd/Bukaake)** | Web automation and interactive tooling utility. | `JavaScript` |
-| 🦀 **[Methik](https://github.com/Crlyzd/Methik)** | Systems utility and CLI tool exploring efficiency and safe memory management. | `Rust` |
-| 🌿 **[kaleksananbagus.com](https://kaleksananbagus.com/)** | Personal digital garden, essays, hiking logs, and developer journals. | `Hugo` `Markdown` |
+| Repository | Description | Primary Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| 🎵 **[flying-lyrics](https://github.com/Crlyzd/flying-lyrics)** | Dynamic and interactive floating lyrics tool / overlay for a seamless music experience. | `JavaScript` `CSS` | ![Stars](https://img.shields.io/github/stars/Crlyzd/flying-lyrics?style=flat-square&color=7aa2f7&labelColor=1a1b26) |
+| 📝 **[Cathet](https://github.com/Crlyzd/Cathet)** | Modern, lightweight, fast alternative to Windows Notepad with enhanced UX. | `TypeScript` | ![Stars](https://img.shields.io/github/stars/Crlyzd/Cathet?style=flat-square&color=7aa2f7&labelColor=1a1b26) |
+| 🖥️ **[Alitken-GUI](https://github.com/Crlyzd/Alitken-GUI)** | Modern desktop GUI frontend for the Alitken system tweak and optimization toolset. | `TypeScript` | ![Stars](https://img.shields.io/github/stars/Crlyzd/Alitken-GUI?style=flat-square&color=7aa2f7&labelColor=1a1b26) |
+| ⚡ **[Alitken](https://github.com/Crlyzd/Alitken)** | Windows system customization, setup routines, and automation scripts. | `PowerShell` | ![Stars](https://img.shields.io/github/stars/Crlyzd/Alitken?style=flat-square&color=7aa2f7&labelColor=1a1b26) |
+| 🌐 **[Bukaake](https://github.com/Crlyzd/Bukaake)** | Web automation and interactive tooling utility. | `JavaScript` | ![Stars](https://img.shields.io/github/stars/Crlyzd/Bukaake?style=flat-square&color=7aa2f7&labelColor=1a1b26) |
+| 🦀 **[Methik](https://github.com/Crlyzd/Methik)** | Systems utility and CLI tool exploring efficiency and safe memory management. | `Rust` | ![Stars](https://img.shields.io/github/stars/Crlyzd/Methik?style=flat-square&color=7aa2f7&labelColor=1a1b26) |
+| 🌿 **[kaleksananbagus.com](https://kaleksananbagus.com/)** | Personal digital garden, essays, hiking logs, and developer journals. | `Hugo` `Markdown` | — |
 
 ---
 
