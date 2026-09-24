@@ -1,16 +1,152 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=220&section=header&text=Kaleksanan%20Bagus%20Massani&fontSize=40&fontAlignY=38&animation=fadeIn&fontColor=c0caf5" width="100%" alt="Header Banner" />
 
-<!--
-**Crlyzd/Crlyzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%26+Builder;Crafting+Modern+Web+Experiences;Open+Source+Enthusiast;Welcome+to+my+digital+corner+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://kaleksananbagus.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-kaleksananbagus.com-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/kaleksananbagus" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-kaleksananbagus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/curlyzed" target="_blank">
+      <img src="https://img.shields.io/badge/X-@curlyzed-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    </a>
+    <a href="mailto:curlyzed.lonely@gmail.com">
+      <img src="https://img.shields.io/badge/Email-curlyzed.lonely@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💫 About Me
+
+```yaml
+name: Kaleksanan Bagus Massani
+alias: Crlyzd / curlyzed
+focus: Full-Stack Web Development, Modern UI & Systems Automation
+location: Indonesia
+portfolio: https://kaleksananbagus.com/
+passions: [Clean Code, Minimalist Design, Nature & Mountains, Open Source]
+```
+
+- 🌐 Read my essays, travel journals, and thoughts at **[kaleksananbagus.com](https://kaleksananbagus.com/)**
+- 🔭 I build responsive web applications, lightweight desktop tools, and system scripts
+- 🛠️ Actively developing **[flying-lyrics](https://github.com/Crlyzd/flying-lyrics)**, **[Cathet](https://github.com/Crlyzd/Cathet)**, and **[Bukaake](https://github.com/Crlyzd/Bukaake)**
+- 🦀 Experimenting with high-performance systems and CLI tooling in **Rust** and **PowerShell**
+- 📫 Connect with me via **[Email](mailto:curlyzed.lonely@gmail.com)** or **[LinkedIn](https://linkedin.com/in/kaleksananbagus)**
+
+---
+
+### 💻 Tech Stack & Toolbox
+
+<div align="center">
+
+#### Languages & Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,python,powershell,bash,html,css,markdown&perline=9" alt="Languages" />
+</a>
+
+#### Frameworks & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,nodejs,express&perline=8" alt="Frameworks" />
+</a>
+
+#### Platforms, Ecosystem & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vscode,postman&perline=8" alt="Tools" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <a href="https://github.com/Crlyzd">
+    <img src="https://github-readme-stats.vercel.app/api?username=Crlyzd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Crlyzd's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Crlyzd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crlyzd&theme=tokyonight&hide_border=true" alt="Crlyzd's GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Crlyzd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crlyzd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### 🚀 Repositories & Projects
+
+<div align="center">
+  <a href="https://github.com/Crlyzd/flying-lyrics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=flying-lyrics&theme=tokyonight&hide_border=true" alt="flying-lyrics" />
+  </a>
+  <a href="https://github.com/Crlyzd/Cathet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Cathet&theme=tokyonight&hide_border=true" alt="Cathet" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Crlyzd/Alitken-GUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Alitken-GUI&theme=tokyonight&hide_border=true" alt="Alitken-GUI" />
+  </a>
+  <a href="https://github.com/Crlyzd/Alitken">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Alitken&theme=tokyonight&hide_border=true" alt="Alitken" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Crlyzd/Bukaake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Bukaake&theme=tokyonight&hide_border=true" alt="Bukaake" />
+  </a>
+  <a href="https://github.com/Crlyzd/Methik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crlyzd&repo=Methik&theme=tokyonight&hide_border=true" alt="Methik" />
+  </a>
+</div>
+
+<br />
+
+| Repository | Description | Primary Stack |
+| :--- | :--- | :--- |
+| 🎵 **[flying-lyrics](https://github.com/Crlyzd/flying-lyrics)** | Dynamic and interactive floating lyrics tool / overlay for a seamless music experience. | `JavaScript` `CSS` |
+| 📝 **[Cathet](https://github.com/Crlyzd/Cathet)** | Modern, lightweight, fast alternative to Windows Notepad with enhanced UX. | `TypeScript` |
+| 🖥️ **[Alitken-GUI](https://github.com/Crlyzd/Alitken-GUI)** | Modern desktop GUI frontend for the Alitken system tweak and optimization toolset. | `TypeScript` |
+| ⚡ **[Alitken](https://github.com/Crlyzd/Alitken)** | Windows system customization, setup routines, and automation scripts. | `PowerShell` |
+| 🌐 **[Bukaake](https://github.com/Crlyzd/Bukaake)** | Web automation and interactive tooling utility. | `JavaScript` |
+| 🦀 **[Methik](https://github.com/Crlyzd/Methik)** | Systems utility and CLI tool exploring efficiency and safe memory management. | `Rust` |
+| 🌿 **[kaleksananbagus.com](https://kaleksananbagus.com/)** | Personal digital garden, essays, hiking logs, and developer journals. | `Hugo` `Markdown` |
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://kaleksananbagus.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Site-10B981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/kaleksananbagus" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/curlyzed" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/curlyzed" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:curlyzed.lonely@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
